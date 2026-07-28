@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ## 📊 Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGG&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlggzgl&layout=compact&theme=tokyonight" />
 </p>
