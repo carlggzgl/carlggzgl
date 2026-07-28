@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
 **carlggzgl/carlggzgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">¡Hola! 👋 Soy Carlos García González</h1>
 
 <p align="center">
@@ -25,8 +12,6 @@ Here are some ideas to get you started:
   Actualmente continúo fortaleciendo mis conocimientos en Java, Spring Boot y arquitectura de software.
 </p>
 
----
-
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Backend Junior
@@ -34,8 +19,6 @@ Here are some ideas to get you started:
 - ⚙️ Enfocado en Java y Spring Boot
 - 🐳 Interesado en Docker y despliegue de aplicaciones
 - 📍 Estado de México, México
-
----
 
 ## 🛠 Tecnologías
 
@@ -56,8 +39,6 @@ Here are some ideas to get you started:
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea,vscode" />
 </p>
-
----
 
 ## 📂 Proyectos Destacados
 
@@ -102,6 +83,6 @@ Características:
 
 ## 📫 Contacto
 
-📧 correo@ejemplo.com
+📧 carlos_g120@hotmail.com
 
-💼 www.linkedin.com/in/tu-linkedin
+💼 www.linkedin.com/in/carlos-garcia-gonzalez-a59a9a237
