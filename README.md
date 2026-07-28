@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Lenguajes más utilizados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGG&layout=compact&theme=tokyonight" />
+</p>
