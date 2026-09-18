@@ -72,11 +72,10 @@ Características:
 ## 📈 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlggzgl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlggzgl&show_icons=true&theme=tokyonight" height="170">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlggzgl&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlggzgl&layout=compact&theme=tokyonight" height="170">
 </p>
-
 ---
 
 ## 📫 Contacto
