@@ -72,11 +72,9 @@ Características:
 ## 📈 Estadísticas
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlggzgl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlggzgl&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlggzgl&layout=compact&theme=tokyonight"/>
-<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlggzgl&theme=react&line_height=40&hide=css"/> </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlggzgl&layout=compact&theme=tokyonight" />
 </p>
 
 ---
