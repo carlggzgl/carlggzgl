@@ -85,3 +85,11 @@ Características:
 📧 carlos_g120@hotmail.com
 
 💼 www.linkedin.com/in/carlos-garcia-gonzalez-a59a9a237
+
+
+<a href="https://github.com/carlggzgl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlggzgl" />
+</a>
+<a href="https://github.com/carlggzgl/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlggzgl&layout=compact&langs_count=8&card_width=320" />
+</a>
