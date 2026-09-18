@@ -86,4 +86,3 @@ Características:
 
 💼 www.linkedin.com/in/carlos-garcia-gonzalez-a59a9a237
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlggzgl)](https://github.com/carlggzgl/github-readme-stats)
